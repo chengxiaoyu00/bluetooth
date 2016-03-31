@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  BlueSessionManager.h
 //  BlueTalk
 //
 //  Created by user on 15-4-8.
 //  Copyright (c) 2015年 YangPeiQiu. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface ViewController : UIViewController
-
+@interface BlueSessionManager : NSObject
 
 @end
-
